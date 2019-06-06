@@ -1,0 +1,105 @@
+﻿{
+    "options": {
+        "domains": [],
+        "inputIDs": [],
+        "limit": []
+    },
+    "templates": [
+        {
+            "issuetype-field": "Bug",
+            "name": "VC BUG TEMPLATE",
+            "projects-field": "VC",
+            "text": "*Environment:*\n <TI>Enter where the issue is happening: Production, Dev or Staging</TI>*\n\n*Steps to Reproduce:*\n# <TI>Enter 1st detailed step to reproduce here.</TI>\n# <TI>Enter 2nd detailed step to reproduce here.</TI>\n# <TI>Enter 3rd detailed step to reproduce here.</TI>\n# <TI>Enter detailed steps to reproduce here.</TI>\n\n*Actual Result:*\n<TI>Enter what is happening here.</TI>\n\n*Expected Result:*\n<TI>Enter what should happen here.</TI>\n\n*Additional Information:*\n* <TI>Enter any other helpful info/details such as other examples</TI>\n* <TI>or named Screenshoots & Videos</TI>\n* <TI>or link to #Bug-and-Features slack channel</TI>\n* <TI>or Links to requirements, etc</TI>\n\n*Workaround:*\n<TI>If there is a way to work around the problem, place that information here.</TI>"
+        },
+        {
+            "issuetype-field": "Story",
+            "name": "VC STORY TEMPLATE",
+            "projects-field": "VC",
+            "text": "*Scope:*\n<TI>Enter High level goal</TI>\n\n{panel:title=Story|titleBGColor=#F7D6C1|bgColor=#FFFFCE}\n\n*As a* <TI>type of user/persona</TI>,\n*I want* <TI>to perform some task</TI>,\n*so that I can* <TI>achieve some goal/benefit/value</TI>\n\n{panel}\n\n*Out of Scope:*<TI>Specify if sth needs to be OoS</TI>\n\n*User Experience*\n<TI>Enter Design modals, user journeys, or any related information here</TI>\n\n*Acceptance Criteria*\n||AC_number||GIVEN||WHEN||THEN||\n|AC-01|<TI>enter condition</TI>| <TI>enter trigger</TI>|<TI>enter output</TI>|\n|AC-02|<TI>condition</TI>|<TI>trigger</TI>|<TI>output</TI>|\n|AC-03|<TI>condition</TI>|<TI>trigger</TI>|<TI>output</TI>|\n\n*Workaround:*\n<TI>Enter any details, clarifications or points about implementation here.</TI>\n\n*(i) Additional Information:*\n<TI>Enter references or info that may help with developing the feature.</TI>\n\n*(?) Q&A to resolve:*\n* BETA Flag: choose (/) or (x)\n* Release Strategy:choose (/) or (x)\n<TI>if apply enter the relevant the link to release strategy</TI>\n* External Dependencies: choose (/) or (x)\n<TI>if there are dependencies link them</TI>"
+        },
+        {
+            "issuetype-field": "Task",
+            "name": "VC TASK TEMPLATE",
+            "projects-field": "VC",
+            "text": "*What we need:*\n<TI>enter What we need to do</TI>*\n\n*Why/What for:*\n<TI>enter For What/Why we need to do</TI>\n\n*How do that:*\n<TI>general How we need to do</TI>\n\n\n*Acceptance Criteria*\n||AC_number||GIVEN||WHEN||THEN||\n|AC-01|<TI>enter condition</TI>| <TI>enter trigger</TI>|<TI>enter output</TI>|\n|AC-02|<TI>condition</TI>|<TI>trigger</TI>|<TI>output</TI>|\n\n"
+        },
+        {
+            "issuetype-field": "Epic",
+            "name": "VC EPIC TEMPLATE",
+            "projects-field": "VC",
+            "text": "*Epic Name:*\n <TI>Enter what is going to be the Epic Link for the stories/tasks attached to it</TI>\n\n *Epic info*:*\n <TI>Enter a general idea about what the Epic is about</TI>"
+        },
+        {
+            "issuetype-field": "Discovery Subtask",
+            "name": "VC DISCOVERY TEMPLATE",
+            "projects-field": "VC",
+            "text": ""
+        },
+        {
+            "issuetype-field": "Sub-task",
+            "name": "VC SUB TASK TEMPLATE",
+            "projects-field": "VC",
+            "text": "*What we need:*\n<TI>enter What we need to do</TI>*\n\n*Why/What for:*\n<TI>enter For What/Why we need to do</TI>\n\n*How do that:*\n<TI>general How we need to do</TI>\n\n\n*Solution:*\n<TI>Enter info/details of the solution given, e.g: event tracking naming, decided final structure... </TI>"
+        },
+        {
+            "issuetype-field": "Idea",
+            "name": "VC IDEA TEMPLATE",
+            "projects-field": "VC",
+            "text": ""
+        },
+        {
+            "issuetype-field": "Tech Credit",
+            "name": "VC TECH CREDIT TEMPLATE",
+            "projects-field": "VC",
+            "text": ""
+        },
+        {
+            "issuetype-field": "Bug",
+            "name": "VG BUG TEMPLATE",
+            "projects-field": "VG",
+            "text": "*Environment:*\n <TI>Enter where the issue is happening: Production, Dev or Staging</TI>*\n\n*Steps to Reproduce:*\n# <TI>Enter 1st detailed step to reproduce here.</TI>\n# <TI>Enter 2nd detailed step to reproduce here.</TI>\n# <TI>Enter 3rd detailed step to reproduce here.</TI>\n# <TI>Enter detailed steps to reproduce here.</TI>\n\n*Actual Result:*\n<TI>Enter what is happening here.</TI>\n\n*Expected Result:*\n<TI>Enter what should happen here.</TI>\n\n*Additional Information:*\n* <TI>Enter any other helpful info/details such as other examples</TI>\n* <TI>or named Screenshoots & Videos</TI>\n* <TI>or link to #Bug-and-Features slack channel</TI>\n* <TI>or Links to requirements, etc</TI>\n\n*Workaround:*\n<TI>If there is a way to work around the problem, place that information here.</TI>"
+        },
+        {
+            "issuetype-field": "Story",
+            "name": "VG STORY TEMPLATE",
+            "projects-field": "VG",
+            "text": "*Scope:*\n<TI>Enter High level goal</TI>\n\n{panel:title=Story|titleBGColor=#F7D6C1|bgColor=#FFFFCE}\n\n*As a* <TI>type of user/persona</TI>,\n*I want* <TI>to perform some task</TI>,\n*so that I can* <TI>achieve some goal/benefit/value</TI>\n\n{panel}\n\n*Out of Scope:*<TI>Specify if sth needs to be OoS</TI>\n\n*User Experience*\n<TI>Enter Design modals, user journeys, or any related information here</TI>\n\n*Acceptance Criteria*\n||AC_number||GIVEN||WHEN||THEN||\n|AC-01|<TI>enter condition</TI>| <TI>enter trigger</TI>|<TI>enter output</TI>|\n|AC-02|<TI>condition</TI>|<TI>trigger</TI>|<TI>output</TI>|\n|AC-03|<TI>condition</TI>|<TI>trigger</TI>|<TI>output</TI>|\n\n*Workaround:*\n<TI>Enter any details, clarifications or points about implementation here.</TI>\n\n*(i) Additional Information:*\n<TI>Enter references or info that may help with developing the feature.</TI>\n\n*(?) Q&A to resolve:*\n* BETA Flag: choose (/) or (x)\n* Release Strategy:choose (/) or (x)\n<TI>if apply enter the relevant the link to release strategy</TI>\n* External Dependencies: choose (/) or (x)\n<TI>if there are dependencies link them</TI>"
+        },
+        {
+            "issuetype-field": "Task",
+            "name": "VG TASK TEMPLATE",
+            "projects-field": "VG",
+            "text": "*What we need:*\n<TI>enter What we need to do</TI>*\n\n*Why/What for:*\n<TI>enter For What/Why we need to do</TI>\n\n*How do that:*\n<TI>general How we need to do</TI>"
+        },
+        {
+            "issuetype-field": "Epic",
+            "name": "VG EPIC TEMPLATE",
+            "projects-field": "VG",
+            "text": "*Epic Name:*\n <TI>Enter what is going to be the Epic Link for the stories/tasks attached to it</TI> \n\n *Epic info*:*\n <TI>Enter a general idea about what the Epic is about</TI>"
+        },
+        {
+            "issuetype-field": "Discovery Subtask",
+            "name": "VG DISCOVERY TEMPLATE",
+            "projects-field": "VG",
+            "text": ""
+        },
+        {
+            "issuetype-field": "Sub-task",
+            "name": "VG SUB TASK TEMPLATE",
+            "projects-field": "VG",
+            "text": "*What we need:*\n<TI>enter What we need to do</TI>*\n\n*Why/What for:*\n<TI>enter For What/Why we need to do</TI>\n\n*How do that:*\n<TI>general How we need to do</TI>\n\n\n*Solution:*\n<TI>Enter info/details of the solution given, e.g: event tracking naming, decided final structure... </TI>"
+        },
+        {
+            "issuetype-field": "Idea",
+            "name": "VG IDEA TEMPLATE",
+            "projects-field": "VG",
+            "text": ""
+        },
+        {
+            "issuetype-field": "Tech Credit",
+            "name": "VG TECH CREDIT TEMPLATE",
+            "projects-field": "VG",
+            "text": ""
+        }
+    ]
+}
