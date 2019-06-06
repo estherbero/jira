@@ -17,4 +17,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Screen Shot 2019-06-06 at 12 19 18 pm](https://user-images.githubusercontent.com/42112927/59002318-5881a580-8855-11e9-8e3b-cb099b8d9933.png)
 
 
-###### 5. They can be modify just clicking on each one, updating and saving them again.
+###### 5. They can be modified just clicking on each one, updating and saving them again.
